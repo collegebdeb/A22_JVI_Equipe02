@@ -1,0 +1,1970 @@
+{
+  "pack": {
+    "_id": "castle-ruins",
+    "name": "Castle Ruins"
+  },
+  "name": "Chapel Stonewall",
+  "tags": [
+    "chapel",
+    "medieval",
+    "mossy",
+    "stone",
+    "wall",
+    "broken",
+    "brick",
+    "castle",
+    "archviz"
+  ],
+  "brushes": [
+    {
+      "contentLength": 67133392,
+      "uri": "Aset_chapel_stonewall_M_scbcc_Brush_001.tif"
+    },
+    {
+      "contentLength": 67133372,
+      "uri": "Aset_chapel_stonewall_M_scbcc_Brush_002.tif"
+    },
+    {
+      "contentLength": 67133388,
+      "uri": "Aset_chapel_stonewall_M_scbcc_Brush_003.tif"
+    },
+    {
+      "contentLength": 67133348,
+      "uri": "Aset_chapel_stonewall_M_scbcc_Brush_004.tif"
+    },
+    {
+      "contentLength": 67133380,
+      "uri": "Aset_chapel_stonewall_M_scbcc_Brush_005.tif"
+    },
+    {
+      "contentLength": 67133212,
+      "uri": "Aset_chapel_stonewall_M_scbcc_Brush_006.tif"
+    }
+  ],
+  "previews": {
+    "images": [
+      {
+        "contentLength": 486468,
+        "resolution": "742x400",
+        "uri": "scbcc_Thumb_HighPoly.png",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "highpoly"
+        ]
+      },
+      {
+        "contentLength": 1906531,
+        "resolution": "1484x800",
+        "uri": "scbcc_Thumb_HighPoly_Retina.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 1034,
+        "resolution": "45x24",
+        "uri": "JGNaNG1jOjo1HionFVhOKUQ9IlFKKzw3HyomFU5GJ3xyQU5HJ1pSLjMvGX5zRjUxHGBWMGJZMYl7Rz04Hh8dEDUwGkhCJUI9Ik5HKFtTMRUVC1NNKntwQD+EHv8AAAAXdFJOUwDqXHn+/jz+Dhsr6dTnRsrfrHuKwZ3cEsMC6AAAAg1JREFUOMt9k9t26yAMRIkNCHxP0lQIBPj/v7KiSWrnPBw9am3PmhlkpWScOo3V18UPt3vn/cdeqfugOueW72m9HXQuvCcdyqwfH+xj8grHkQzSQQ+plICVCprbme7jqtSYEmUdT9pUYtaIhT5pC19KrYn0bvKJhoJ7rjXF1B+s6/CXjoiJSS/vSAOIaqAo/Im2lF40pVhSXl57DwWohAB8pgcIRXxfEQHIRBzeewqCYiDmE91BCLNTD04Rq9m/3nt/KcAxBgCwp/6EFu17xZSw5m930EFnlOwXf0iPBGHs1J3FN6Exy4lOusZo5r+3HK5AQGGT0pExBd77PzoENILrzR2u24RZ9cwsJQJvt4OGhDHqQ9uOQBhCFO0oMIJO2Ls3TUSgDyduAtRSFatO3qy1smtM9k3zHkrd305sn2LOQo9CSyfMicwep64JNSc7Q6CXtpuIqm70rLpIiL9JYwrXFx30nsXK8CqE65PelBVSYsolUoWp9yIV5JWrLqyfpYrpmpsTOZShXRVi+4AjgHiZQqvQhCi0X5Z+jLmK+pMeo8RMLWn7ahzctZWSGaD2fjYVkLPOnKE58fMsV8GRa6woEaQYewlx3w3Dw16uE1RBc66SfZMQbrBd39/v1+kiA/KmfkpCG1qdU3bdtnlbH31n++Xjp3bym/t2Sn5iPRu9Prcy6r/jv8wyWPvv+geidjJfowr9EQAAAABJRU5ErkJggg==",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "tiny"
+        ]
+      },
+      {
+        "contentLength": 88796,
+        "resolution": "742x400",
+        "uri": "scbcc_Thumb_HighPoly_thumb.jpg",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "highpoly",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 344489,
+        "resolution": "1484x800",
+        "uri": "scbcc_Thumb_HighPoly_Retina_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 344126,
+        "resolution": "1484x800",
+        "uri": "scbcc_Thumb_HighPoly_Retina_thumb_retina.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 262056,
+        "resolution": "1336x720",
+        "uri": "scbcc_Thumb_HighPoly_Retina_sp.jpg",
+        "tags": [
+          "jpeg",
+          "sidepanel"
+        ]
+      }
+    ],
+    "relativeSize": "2x1"
+  },
+  "environment": {
+    "biome": "temperate-forest",
+    "region": "European Union"
+  },
+  "json": {
+    "contentLength": 40804,
+    "uri": "scbcc.json"
+  },
+  "points": 4,
+  "meta": [
+    {
+      "key": "length",
+      "name": "Length",
+      "value": "1.36m"
+    },
+    {
+      "key": "width",
+      "name": "Width",
+      "value": "2.42m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "3.03m"
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "0 px/m"
+    },
+    {
+      "key": "assembly",
+      "name": "Assembly",
+      "value": "False"
+    },
+    {
+      "key": "color",
+      "name": "Color",
+      "value": "Green"
+    },
+    {
+      "key": "iteration",
+      "name": "Iteration Number",
+      "value": "%%iteration%%"
+    },
+    {
+      "key": "set",
+      "name": "Set Toggle",
+      "value": "True"
+    },
+    {
+      "key": "setname",
+      "name": "Set Name",
+      "value": "Medieval Chapel"
+    },
+    {
+      "key": "points",
+      "name": "Points",
+      "value": 8
+    },
+    {
+      "key": "isScaleFixed",
+      "name": "Is scale fixed",
+      "value": "true"
+    }
+  ],
+  "categories": [
+    "3d",
+    "chapel",
+    "stonewall"
+  ],
+  "components": [
+    {
+      "minIntensity": 71,
+      "name": "Normal",
+      "colorSpace": "Linear",
+      "maxIntensity": 203,
+      "type": "normal",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 260953243,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 26948
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 58103258,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 26948
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 249577658,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 20211
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 45950947,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 20211
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 250777716,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 15158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 46243283,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 15158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 252764296,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 11368
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 46559028,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 11368
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 256847213,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 47142416,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 253378712,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 1100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 45037688,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 1100
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 154895249,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 26948
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 18376549,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 26948
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 152791499,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 20211
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17460418,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 20211
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 153198911,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 15158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17510798,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 15158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 153821077,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 11368
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17567188,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 11368
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 154582212,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17195837,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 153674524,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 1100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 15890284,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 1100
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 41148514,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 26948
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 5188022,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 26948
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 40915705,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 20211
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 5172330,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 20211
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 40990293,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 15158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 5190117,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 15158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 41096540,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 11368
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 5211078,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 11368
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 41238661,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 5113440,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 41011514,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 1100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4732414,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 1100
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11098788,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 26948
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1444027,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 26948
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11077319,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 20211
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1458163,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 20211
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11092082,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 15158
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1464097,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 15158
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11116208,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 11368
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1473249,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 11368
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11160488,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1461948,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11121450,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 1100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1372225,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 1100
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8181F8"
+    },
+    {
+      "minIntensity": 67,
+      "name": "Bump",
+      "colorSpace": "Linear",
+      "maxIntensity": 188,
+      "type": "bump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 74742581,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 13693221,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 53376782,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4631852,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14900749,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1600154,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4095931,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 551244,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Bump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#7F7F7F"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Gloss",
+      "colorSpace": "Linear",
+      "maxIntensity": 43,
+      "type": "gloss",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 108552983,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 22311536,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 57496641,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5987854,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 15538992,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1542442,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4165181,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 426180,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Gloss.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#1E1E1E"
+    },
+    {
+      "minIntensity": 91,
+      "name": "Displacement",
+      "colorSpace": "Linear",
+      "maxIntensity": 124,
+      "type": "displacement",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 58722812,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 8461973,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 20662038,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2438053,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 6648984,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 717078,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 2160061,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 252791,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Displacement.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#6D6D6D"
+    },
+    {
+      "minIntensity": 211,
+      "name": "Roughness",
+      "colorSpace": "Linear",
+      "maxIntensity": 255,
+      "type": "roughness",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 70263322,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 21598234,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 52097795,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 5805671,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14182385,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1493029,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3823948,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 411731,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Roughness.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#E1E1E1"
+    },
+    {
+      "minIntensity": 140,
+      "name": "Cavity",
+      "colorSpace": "sRGB",
+      "maxIntensity": 253,
+      "type": "cavity",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 85006451,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 28831529,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 55169341,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 8102597,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14920389,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2072820,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3999121,
+                  "bitDepth": 32,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 558311,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Cavity.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#E1E1E1"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Specular",
+      "colorSpace": "sRGB",
+      "maxIntensity": 6,
+      "type": "specular",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 279504220,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 16606598,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 156130311,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4858247,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 39890654,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1223647,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 10196205,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 326303,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Specular.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#030303"
+    },
+    {
+      "minIntensity": 99,
+      "name": "Normalbump",
+      "colorSpace": "sRGB",
+      "maxIntensity": 187,
+      "type": "normalbump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 259512298,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 56675605,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 141704333,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 14683554,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 38663492,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4134615,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 10522837,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1138519,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_NormalBump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8181FF"
+    },
+    {
+      "minIntensity": 4,
+      "name": "Albedo",
+      "colorSpace": "sRGB",
+      "maxIntensity": 87,
+      "type": "albedo",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 364787385,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 50890969,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 311309879,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 37855364,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 300708170,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 1100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 35630751,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_8K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 1100
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 165876658,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 13988227,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 164138363,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 12679113,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 161860880,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 1100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 11655698,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_4K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 1100
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 43268810,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 3573134,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 43080991,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 3444585,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 42593802,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 1100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 3173009,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_2K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 1100
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 11571560,
+                  "bitDepth": 16,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 949039,
+                  "bitDepth": 8,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11550365,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 937450,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 3100
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11456590,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 1100
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 873771,
+                  "uri": "Aset_chapel_stonewall_M_scbcc_1K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 1100
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#271F07"
+    }
+  ],
+  "references": [],
+  "referencePreviews": {
+    "models": [
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 2231256,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 1038544,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 5576717,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 1676260,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 791568,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 4154080,
+        "type": "lod",
+        "uri": ""
+      }
+    ],
+    "maps": [
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1444027,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1458163,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 551244,
+        "type": "bump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 426180,
+        "type": "gloss",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 252791,
+        "type": "displacement",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 411731,
+        "type": "roughness",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 558311,
+        "type": "cavity",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 326303,
+        "type": "specular",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1138519,
+        "type": "normalbump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 949039,
+        "type": "albedo",
+        "uri": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "key": "mesh type",
+      "value": "open"
+    },
+    {
+      "key": "size",
+      "value": "medium"
+    }
+  ],
+  "averageColor": "#271F07",
+  "meshes": [
+    {
+      "type": "zbrush",
+      "uris": [
+        {
+          "mimeType": "application/x-ztl",
+          "contentLength": 150597396,
+          "uri": "Aset_chapel_stonewall_M_scbcc_ZTool.ztl"
+        }
+      ]
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 263980,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD4.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 146336,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD4.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 630147,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD4.obj"
+        }
+      ],
+      "tris": 3100
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 97780,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD5.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 65216,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD5.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 224989,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD5.obj"
+        }
+      ],
+      "tris": 1100
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 2231256,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD0.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 1038544,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD0.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 5576717,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD0.obj"
+        }
+      ],
+      "tris": 26948
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 1676260,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD1.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 791568,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD1.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 4154080,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD1.obj"
+        }
+      ],
+      "tris": 20211
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 1259764,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD2.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 602784,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD2.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 3109192,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD2.obj"
+        }
+      ],
+      "tris": 15158
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 947076,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD3.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 459920,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD3.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 2331149,
+          "uri": "Aset_chapel_stonewall_M_scbcc_LOD3.obj"
+        }
+      ],
+      "tris": 11368
+    },
+    {
+      "type": "original",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 245973916,
+          "uri": "Aset_chapel_stonewall_M_scbcc_High.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 181235264,
+          "uri": "Aset_chapel_stonewall_M_scbcc_High.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 669542770,
+          "uri": "Aset_chapel_stonewall_M_scbcc_High.obj"
+        }
+      ]
+    }
+  ],
+  "assetCategories": {
+    "3D asset": {
+      "historical": {
+        "medieval": {
+          "ruins": {},
+          "wall": {}
+        }
+      }
+    }
+  },
+  "semanticTags": {
+    "subject_matter": "manmade",
+    "name": "Chapel Stonewall",
+    "latin_name": [],
+    "asset_type": "3D asset",
+    "contains": [
+      "stone wall",
+      "moss"
+    ],
+    "theme": [
+      "chapel",
+      " castle"
+    ],
+    "descriptive": [
+      "broken",
+      " huge",
+      " structure"
+    ],
+    "collection": [
+      "Castle Ruins"
+    ],
+    "environment": [
+      "medieval"
+    ],
+    "season": [],
+    "interior_exterior": [
+      "exterior",
+      "interior"
+    ],
+    "orientation": [
+      "wall"
+    ],
+    "architectural_style": {},
+    "state": [
+      "old",
+      "damaged"
+    ],
+    "color": [
+      "green"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "3d_mesh": "Open",
+    "resolution": 8192,
+    "locations": {
+      "Global": {
+        "Global": {}
+      }
+    },
+    "maxSize": 3.03,
+    "minSize": 1.36
+  },
+  "uasset": [
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/S_Chapel_Stonewall_scbcc_high.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/MI_Chapel_Stonewall_scbcc_8K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_ChapelStonewall_scbcc_8K_DpR.uasset",
+      "sub-type": "dr"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_Chapel_Stonewall_scbcc_8K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier0/T_Chapel_Stonewall_scbcc_8K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 0,
+      "mimeType": "json",
+      "uri": "UAsset/Tier0/scbcc_0.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/S_Chapel_Stonewall_scbcc_lod0.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/MI_Chapel_Stonewall_scbcc_4K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_ChapelStonewall_scbcc_4K_DpR.uasset",
+      "sub-type": "dr"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_Chapel_Stonewall_scbcc_4K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier1/T_Chapel_Stonewall_scbcc_4K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 1,
+      "mimeType": "json",
+      "uri": "UAsset/Tier1/scbcc_1.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/S_Chapel_Stonewall_scbcc_lod3.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/MI_Chapel_Stonewall_scbcc_2K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_ChapelStonewall_scbcc_2K_DpR.uasset",
+      "sub-type": "dr"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_Chapel_Stonewall_scbcc_2K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier2/T_Chapel_Stonewall_scbcc_2K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 2,
+      "mimeType": "json",
+      "uri": "UAsset/Tier2/scbcc_2.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/S_Chapel_Stonewall_scbcc_lod5.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/MI_Chapel_Stonewall_scbcc_1K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_ChapelStonewall_scbcc_1K_DpR.uasset",
+      "sub-type": "dr"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_Chapel_Stonewall_scbcc_1K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier3/T_Chapel_Stonewall_scbcc_1K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 3,
+      "mimeType": "json",
+      "uri": "UAsset/Tier3/scbcc_3.json"
+    },
+    {
+      "type": "model",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/S_Chapel_Stonewall_scbcc_lod5.uasset"
+    },
+    {
+      "type": "material",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/MI_Chapel_Stonewall_scbcc_1K.uasset"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/T_Chapel_Stonewall_scbcc_1K_D.uasset",
+      "sub-type": "albedo"
+    },
+    {
+      "type": "map",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "uasset",
+      "uri": "UAsset/Tier4/T_Chapel_Stonewall_scbcc_1K_N.uasset",
+      "sub-type": "normal"
+    },
+    {
+      "type": "meta",
+      "ueVersion": "5.0.0",
+      "tier": 4,
+      "mimeType": "json",
+      "uri": "UAsset/Tier4/scbcc_4.json"
+    }
+  ],
+  "id": "scbcc",
+  "physicalSize": "1x1"
+}
