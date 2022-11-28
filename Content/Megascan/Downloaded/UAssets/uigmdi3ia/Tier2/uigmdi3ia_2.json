@@ -1,0 +1,303 @@
+{
+	"assetId": "uigmdi3ia",
+	"assetName": "Bermuda_Buttercup_uigmdi3ia",
+	"assetType": "3dplant",
+	"assetSubType": "multipleMesh",
+	"assetTier": 2,
+	"assetRootPath": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia",
+	"meshList": [
+		{
+			"meshId": "mesh2",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var1_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var1_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var1_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh4",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var2_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var2_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var2_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh6",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var3_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var3_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var3_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh8",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var4_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var4_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var4_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh10",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var5_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var5_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var5_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh12",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var6_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var6_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var6_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh14",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var7_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var7_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var7_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh16",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var8_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var8_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var8_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh18",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var9_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var9_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var9_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh20",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var10_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var10_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var10_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh22",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var11_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var11_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var11_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh24",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var12_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var12_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var12_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh26",
+			"name": "S_Bermuda_Buttercup_uigmdi3ia_Var13_lod1",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/S_Bermuda_Buttercup_uigmdi3ia_Var13_lod1.S_Bermuda_Buttercup_uigmdi3ia_Var13_lod1",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var1_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var1_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var2_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var2_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var3_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var3_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var4_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var4_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var5_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var5_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var6_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var6_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var7_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var7_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var8_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var8_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var9_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var9_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var10_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var10_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var11_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var11_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var12_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var12_lod1",
+		"/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/Foliage/FT_Bermuda_Buttercup_uigmdi3ia_Var13_lod1.FT_Bermuda_Buttercup_uigmdi3ia_Var13_lod1"
+	],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Bermuda_Buttercup_uigmdi3ia_2K",
+			"instancePath": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/MI_Bermuda_Buttercup_uigmdi3ia_2K.MI_Bermuda_Buttercup_uigmdi3ia_2K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": []
+		},
+		{
+			"instanceId": "mat2",
+			"instanceName": "MI_Bermuda_Buttercup_uigmdi3ia_Billboard_2K",
+			"instancePath": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/MI_Bermuda_Buttercup_uigmdi3ia_Billboard_2K.MI_Bermuda_Buttercup_uigmdi3ia_Billboard_2K",
+			"instanceMaster": "master2",
+			"type": "materialInstance",
+			"params": []
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "ORT",
+			"resolution": "2K",
+			"name": "T_BermudaButtercup_uigmdi3ia_2K_ART",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/T_BermudaButtercup_uigmdi3ia_2K_ART.T_BermudaButtercup_uigmdi3ia_2K_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "2K",
+			"name": "T_Bermuda_Buttercup_uigmdi3ia_2K_D",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/T_Bermuda_Buttercup_uigmdi3ia_2K_D.T_Bermuda_Buttercup_uigmdi3ia_2K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "2K",
+			"name": "T_Bermuda_Buttercup_uigmdi3ia_2K_N",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/T_Bermuda_Buttercup_uigmdi3ia_2K_N.T_Bermuda_Buttercup_uigmdi3ia_2K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		},
+		{
+			"textureId": "tex1",
+			"type": "PackTexture",
+			"resolution": "2K",
+			"name": "T_BermudaButtercup_uigmdi3ia_2K_billboard_ART",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/T_BermudaButtercup_uigmdi3ia_2K_billboard_ART.T_BermudaButtercup_uigmdi3ia_2K_billboard_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "",
+			"name": "T_Bermuda_Buttercup_uigmdi3ia_Billboard_D",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/T_Bermuda_Buttercup_uigmdi3ia_Billboard_D.T_Bermuda_Buttercup_uigmdi3ia_Billboard_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "",
+			"name": "T_Bermuda_Buttercup_uigmdi3ia_Billboard_N",
+			"path": "/Game/Megascans/3D_Plants/Bermuda_Buttercup_uigmdi3ia/T_Bermuda_Buttercup_uigmdi3ia_Billboard_N.T_Bermuda_Buttercup_uigmdi3ia_Billboard_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Foliage_Material",
+			"path": "/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+		},
+		{
+			"masterId": "master2",
+			"masterMaterialName": "M_MS_Billboard_Material",
+			"path": "/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+		}
+	]
+}
